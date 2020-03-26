@@ -1,5 +1,5 @@
 {
-  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "$schema": "https://github.com/uwvms/azure-quickstart-templates/tree/master/301-2fe-linux-lb80-ssh-1be-win-nsg-rdp-datadisk-ssd/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
     "publicDnsName": {
